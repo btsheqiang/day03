@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,cite,code,del,em,img,q,small,strong,sub,sup,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,tr,th,td{
+	 margin:0; padding:0; 
+	 border:0; font-size:100%;
+	 }
+body{ background:#fff; color:#000; font:12px/1.5em simsun; text-align:center;}
+ol,ul{ list-style:none;}
+cite,em,strong,th,h1,h2,h3,h4,h5,h6{ font-style:normal; font-weight:normal;}
+table{ border-collapse:collapse; border-spacing:0;}
+input,textarea,select,button{ font-size:100%;}
+a{ color:#000; text-decoration:none;}
+a:hover{ color:#b31515; text-decoration:underline;}
